@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Demo table" max_length="40" name="x_cdltd_apppublish_demo_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Field one" max_length="40" name="field_one" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field two" max_length="40" name="field_two" type="string"/>
+    </element>
+</database>
